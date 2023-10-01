@@ -31,26 +31,17 @@
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
 
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
+Cкриншот раздела Configuration > Hosts
+![ZABBIX_AGENT]((https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
 
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
+скриншот лога zabbix agent
+![ZABBIX_AGENT]((https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_2.png)
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+Cкриншоты раздела Monitoring > Latest data для обоих хостов
+
+![zabbix_host_FRR](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_host_FRR3.png)
+![zabbix_host_TEST_Mashine](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_host_TEST_Mashine.png)
 
 
----
 
