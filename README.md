@@ -34,11 +34,11 @@
 
 Cкриншот раздела Configuration > Hosts
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
+![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
 
 Скриншот лога zabbix agent
 
-![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_2.png)
+![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
 
 Cкриншоты раздела Monitoring > Latest data для обоих хостов
 
