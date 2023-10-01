@@ -37,6 +37,7 @@ Cкриншот раздела Configuration > Hosts
 ![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_1.png)
 
 Скриншот лога zabbix agent
+![zabbix_log_test_mashine](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_log_test_mashine.png)
 
 ![ZABBIX_AGENT](https://github.com/dvolkov15/zabbix/blob/main/img/zabbix_2.png)
 
